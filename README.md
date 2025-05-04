@@ -4,7 +4,7 @@ The University Management System is a Java-based desktop application designed to
 The system provides a centralized platform to add, update, and view records, apply for leaves, enter marks, generate performance reports, and manage course details—all through an intuitive GUI. Custom exceptions ensure robust error handling, making the application reliable for real-world use.
 Features<br>
 <br>
-Personnel Management: Add, update, and view details for students, teachers, and admins.<br>
+Personal Management: Add, update, and view details for students, teachers, and admins.<br>
 Leave Management: Apply for and view leave applications for students and teachers.<br>
 Academic Records: Enter and view student marks, calculate totals, and generate ranked results.<br>
 Course Management: View available courses with details like course code, name, and credits.<br>
@@ -35,6 +35,7 @@ Integrated Development Environment (IDE): Eclipse, IntelliJ IDEA, or any Java-su
 Git: For cloning the repository.<br>
 <br>
 Open the Project:<br>
+<br>
 Run the application:java com.university.management.UniversityManagementSystem<br>
 Alternatively, run via your IDE by executing the UniversityManagementSystem class.<br>
 <br>
